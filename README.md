@@ -17,7 +17,7 @@ Features:
 Follow these steps to install and set up the project.
 ### Clone the Repository
 ```bash
-git clone https://github.com/Andreaswt/figma-clone.git
+https://github.com/ubaid-syed/Ravians-Renderings.git
 ```
 
 ### Navigate to the Project Directory
